@@ -4,7 +4,7 @@ Shohoj Shorol Simple and enjoyable html css project
 [View Live Site](https://anika1111122222.github.io/Assignment-2-Ph/)  
 ---
 ## Project Screenshort
-![Project Screenshort](Projects-screenshort.png)  
+![Project Screenshort](https://github.com/Anika1111122222/Assignment-2-Ph/blob/327b00cfa1c84ae34e0cf76cf62a998dd5ed4bcb/screenshort.png)  
 ---
 ## 🔗 Connect With Me
 
